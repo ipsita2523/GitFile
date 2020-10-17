@@ -1,2 +1,4 @@
 Ipsita Mukherjee
 Address : Cork
+learning AutomationQA
+and git
